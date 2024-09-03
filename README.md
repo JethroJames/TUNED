@@ -1,5 +1,4 @@
 # Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification
----
 
 ## Introduction
 
