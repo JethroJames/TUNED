@@ -7,7 +7,12 @@
   <img src="https://img.shields.io/github/watchers/JethroJames/TUNED?style=social" alt="GitHub watchers">
 </p>
 
-## 🔥Motivation
+## 🔥News
+- **[2024-08-20]**: Initial release of the codebase.
+
+---
+
+## 💡Motivation
 Multi-view classification (MVC) is a challenging task due to the domain gaps and inconsistencies that often arise across different views, leading to uncertainties during the fusion process. Traditional methods, like Evidential Deep Learning (EDL), have been employed to address view uncertainty. However, these approaches often rely heavily on the Dempster-Shafer combination rule, which is sensitive to conflicting evidence and typically overlooks the critical role of neighborhood structures within multi-view data.
 
 To overcome these limitations, we introduce **Trusted Unified Feature-NEighborhood Dynamics (TUNED)**, a novel model designed to enhance robustness in MVC tasks. Our method effectively integrates both local and global feature-neighborhood (F-N) structures to support robust decision-making. By extracting local F-N structures within each view and employing a selective Markov random field to manage cross-view dependencies, TUNED addresses potential uncertainties and conflicts more effectively than existing approaches.
