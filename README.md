@@ -85,9 +85,7 @@ sh train_eval.sh
 @article{huang2024trusted,
   title={Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification},
   author={Huang, Haojian and Qin, Chuanyu and Liu, Zhe and Ma, Kaijing and Chen, Jin and Fang, Han and Ban, Chao and Sun, Hao and He, Zhongjiang},
-  journal={arXiv preprint arXiv:2409.00755
-        
-        },
+  journal={arXiv preprint arXiv:2409.00755},
   year={2024}
 }
 ```
