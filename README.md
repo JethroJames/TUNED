@@ -1,8 +1,6 @@
 # Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License">
-  <img src="https://img.shields.io/badge/python-3.10-blue" alt="Python Version">
-  <img src="https://img.shields.io/badge/conda-4.10.3-blue" alt="Conda Version">
   <a href="https://arxiv.org/abs/2409.00755"><img src="https://img.shields.io/badge/arXiv-2409.00755-red" alt="arXiv"></a>
   <img src="https://img.shields.io/github/watchers/JethroJames/TUNED?style=social" alt="GitHub watchers">
 </p>
