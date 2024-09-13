@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License">
   <a href="https://arxiv.org/abs/2409.00755"><img src="https://img.shields.io/badge/arXiv-2409.00755-red" alt="arXiv"></a>
-  <img src="https://img.shields.io/github/watchers/JethroJames/TUNED?style=social" alt="GitHub watchers">
+<img src="https://komarev.com/ghpvc/?username=JethroJames&repo=TUNED" alt="GitHub Views">
 </p>
 
 ## 🔥News
