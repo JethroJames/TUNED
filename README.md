@@ -7,6 +7,7 @@
 
 ## 🔥News
 - **[2024-08-20]**: Initial release of the codebase.
+- **[2024-12-10]**: Our paper is accepted to AAAI 2025! Congratulations！
 
 ---
 
