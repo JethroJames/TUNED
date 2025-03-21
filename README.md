@@ -8,6 +8,7 @@
 ## 🔥News
 - **[2024-08-20]**: Initial release of the codebase.
 - **[2024-12-10]**: Our paper is accepted to AAAI 2025! Congratulations！
+- **[2025-03-21]**: More multi-view datasets can be found [here](https://github.com/JethroJames/Awesome-Multi-View-Learning-Datasets).
 
 ---
 
