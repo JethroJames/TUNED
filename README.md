@@ -82,11 +82,14 @@ sh train_eval.sh
 ## :handshake:Citation 
 
 ```
-@article{huang2024trusted,
-  title={Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification},
+@inproceedings{huang2025trusted,
+  title={Trusted unified feature-neighborhood dynamics for multi-view classification},
   author={Huang, Haojian and Qin, Chuanyu and Liu, Zhe and Ma, Kaijing and Chen, Jin and Fang, Han and Ban, Chao and Sun, Hao and He, Zhongjiang},
-  journal={arXiv preprint arXiv:2409.00755},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={16},
+  pages={17413--17421},
+  year={2025}
 }
 ```
 
